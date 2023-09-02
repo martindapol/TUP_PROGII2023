@@ -1,0 +1,42 @@
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.FrmPrincipal.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmMain.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmConsultarProductos.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\bin\Debug\CarpinteriaApp.exe.config
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\bin\Debug\CarpinteriaApp.exe
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\bin\Debug\CarpinteriaApp.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.FrmPrincipal.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.exe
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.Presentacion.FrmConsultarPresupuestos.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.Presentacion.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmConsultarPresupuestos.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.FrmPrincipal.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
