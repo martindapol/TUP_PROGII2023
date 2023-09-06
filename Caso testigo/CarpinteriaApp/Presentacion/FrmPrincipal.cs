@@ -1,4 +1,5 @@
 ﻿using CarpinteriaApp.Presentacion;
+using CarpinteriaApp.Presentacion.Reportes;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -28,6 +29,16 @@ namespace CarpinteriaApp
         {
             FrmConsultarPresupuestos consulta=new FrmConsultarPresupuestos();
             consulta.ShowDialog();
+        }
+
+        private void productosVendidosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new FrmReporteProductos().ShowDialog();
+        }
+
+        private void listadoDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new FrmListadoProductos().ShowDialog();
         }
     }
 }
