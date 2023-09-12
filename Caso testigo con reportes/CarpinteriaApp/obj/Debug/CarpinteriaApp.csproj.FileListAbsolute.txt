@@ -1,0 +1,176 @@
+C:\Users\MARTIN\source\repos\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+C:\Users\MARTIN\source\repos\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+C:\Users\MARTIN\source\repos\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.Frm_Alta_Presupuesto.resources
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.Form1.resources
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
+C:\Users\MARTIN\source\repos\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.Frm_Alta_Presupuesto.resources
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+C:\Users\Martin\Desktop\CarpinteriaApp\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.Principal.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmAltaPresupuesto.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmConsultarPresupuestos.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 03\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmAltaPresupuesto.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmConsultarPresupuestos.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmReporteProducto.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.Principal.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CopyComplete
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\EnvDTE.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\stdole.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\EnvDTE.xml
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmModificarPresupuesto.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe.config
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\CarpinteriaApp.pdb
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\EnvDTE.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\stdole.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\EnvDTE.xml
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmAltaPresupuesto.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmConsultarPresupuestos.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmModificarPresupuesto.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.FrmReporteProducto.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.formularios.Principal.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CopyComplete
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 04\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
