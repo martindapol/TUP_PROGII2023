@@ -1,0 +1,11 @@
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\bin\Debug\PilasColas.exe.config
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\bin\Debug\PilasColas.exe
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\bin\Debug\PilasColas.pdb
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.Form1.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.Properties.Resources.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.exe
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\PilasColas\obj\Debug\PilasColas.pdb

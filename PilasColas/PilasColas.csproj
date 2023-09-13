@@ -53,6 +53,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="implementaciones\Cola.cs" />
+    <Compile Include="implementaciones\Lista.cs" />
     <Compile Include="implementaciones\Pila.cs" />
     <Compile Include="interfaces\ICollection.cs" />
     <Compile Include="Program.cs" />

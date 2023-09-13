@@ -7,42 +7,19 @@ using System.Threading.Tasks;
 
 namespace PilasColas.implementaciones
 {
-    public class Pila : IColeccion
+    public class Pila : Lista
     {
-        private List<object> elementos;
-
-        public Pila()
-        {
-            elementos = new List<object>();
-        }
-        public bool Agregar(object obj)
-        {
-            elementos.Insert(0, obj);
-            return true;
-        }
-
-        public bool EstaVacia()
-        {
-            return elementos.Count == 0;
-        }
-
-        public object Extraer()
+  
+        public override object Extraer()
         {
             object e = null;
 
             if (!EstaVacia())
             {
-                e = elementos[0];
-                elementos.RemoveAt(0);
+                int ultimo = elementos.Count - 1;
+                e = elementos[ultimo];
+                elementos.RemoveAt(ultimo);
             }
-            return e;
-        }
-
-        public object Primero()
-        {
-            object e = null;
-            if (!EstaVacia())
-                e = elementos[0];
             return e;
         }
 
