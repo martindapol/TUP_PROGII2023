@@ -32,11 +32,10 @@ namespace CarpinteriaApp.Presentacion
             lst.Add(new Parametro("@fecha_hasta", dtpFecHasta.Value.ToString("yyyyMMdd")));
             lst.Add(new Parametro("@cliente", txtCliente.Text));
 
-            DataTable tabla = DBHelper.GetInstancia().Consultar("SP_CONSULTAR_PRESUPUESTOS", lst);
+            DataTable tabla = new DBHelper().Consultar("SP_CONSULTAR_PRESUPUESTOS", lst);
             dgvPresupuestos.Rows.Clear();
             foreach (DataRow fila in tabla.Rows)
             {
-               
                 dgvPresupuestos.Rows.Add(new object[] { fila["presupuesto_nro"].ToString(),
                                                         ((DateTime)fila["fecha"]).ToShortDateString(),
                                                         fila["cliente"].ToString(),

@@ -10,18 +10,21 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using CarpinteriaApp.Entidades;
 using CarpinteriaApp.Datos;
-using CarpinteriaApp.Servicios;
+using CarpinteriaApp.Datos.Interfaz;
+using CarpinteriaApp.Datos.Implementacion;
+using CarpinteriaApp.Servicios.Interfaz;
+using CarpinteriaApp.Servicios.Implementacion;
 
 namespace CarpinteriaApp.Presentacion
 {
     public partial class FrmNuevoPresupuesto : Form
     {
-        GestorProductos gestor = null;
+        IServicio servicio = null;
         Presupuesto nuevo = null;
         public FrmNuevoPresupuesto()
         {
             InitializeComponent();
-            gestor= new GestorProductos(new ProductoDao());
+            servicio= new Servicio();
             nuevo= new Presupuesto();
         }
 
@@ -31,17 +34,16 @@ namespace CarpinteriaApp.Presentacion
             txtCliente.Text = "Consumidor Final";
             txtDescuento.Text = "0";
             txtCantidad.Text = "1";
-            lblPresupuestoNro.Text = lblPresupuestoNro.Text + " " + gestor.ProximoPresupuesto().ToString();
+            lblPresupuestoNro.Text = lblPresupuestoNro.Text + " " + servicio.TraerProximoPresupuesto().ToString();
             
             CargarProductos();
         }
 
         private void CargarProductos()
         {
-            DataTable tabla = gestor.Consultar("SP_CONSULTAR_PRODUCTOS");
-            cboProducto.DataSource=tabla;
-            cboProducto.ValueMember = tabla.Columns[0].ColumnName;
-            cboProducto.DisplayMember = tabla.Columns[1].ColumnName;  
+            cboProducto.DataSource = servicio.TraerProductos();
+            cboProducto.ValueMember = "ProductoNro";
+            cboProducto.DisplayMember = "Nombre";  
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -65,11 +67,13 @@ namespace CarpinteriaApp.Presentacion
                 }
             }
 
-            DataRowView item = (DataRowView)cboProducto.SelectedItem;
-            int nro = Convert.ToInt32(item.Row.ItemArray[0]);
-            string nom = item.Row.ItemArray[1].ToString();
-            double pre = Convert.ToDouble(item.Row.ItemArray[2]);
-            Producto p = new Producto(nro, nom, pre);
+            //DataRowView item = (DataRowView)cboProducto.SelectedItem;
+            //int nro = Convert.ToInt32(item.Row.ItemArray[0]);
+            //string nom = item.Row.ItemArray[1].ToString();
+            //double pre = Convert.ToDouble(item.Row.ItemArray[2]);
+            //Producto p = new Producto(nro, nom, pre);
+
+            Producto p= (Producto)cboProducto.SelectedItem;
 
             int cant = Convert.ToInt32(txtCantidad.Text);
             DetallePresupuesto detalle= new DetallePresupuesto(p, cant);
@@ -79,7 +83,7 @@ namespace CarpinteriaApp.Presentacion
             //                                    detalle.Producto.Nombre,
             //                                    detalle.Producto.Precio,
             //                                    detalle.Cantidad});
-            dgvDetalles.Rows.Add(new object[] { nro,nom,pre,cant,"Quitar"});
+            dgvDetalles.Rows.Add(new object[] { p.ProductoNro,p.Nombre,p.Precio,cant,"Quitar"});
 
             CalcularTotales();
         }
@@ -126,7 +130,7 @@ namespace CarpinteriaApp.Presentacion
             nuevo.Fecha = Convert.ToDateTime(txtFecha.Text);
             nuevo.Cliente = txtCliente.Text;
             nuevo.Descuento=Convert.ToDouble(txtDescuento.Text);
-            if (gestor.ConfirmarPresupuesto(nuevo))
+            if (servicio.CrearPresupuesto(nuevo))
             {
                 MessageBox.Show("Se registró con éxito el presupuesto...", "Informe", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 this.Dispose();

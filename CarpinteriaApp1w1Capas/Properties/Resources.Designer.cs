@@ -61,11 +61,11 @@ namespace CarpinteriaApp.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a Data Source=.\SQLEXPRESS;Initial Catalog=carpinteria_db;Integrated Security=True.
+        ///   Busca una cadena traducida similar a Data Source=172.16.10.196;Initial Catalog=Carpinteria_2023;User ID=alumno1w1;Password=alumno1w1.
         /// </summary>
-        internal static string cnnString {
+        internal static string CadenaConexion {
             get {
-                return ResourceManager.GetString("cnnString", resourceCulture);
+                return ResourceManager.GetString("CadenaConexion", resourceCulture);
             }
         }
     }

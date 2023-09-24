@@ -9,24 +9,14 @@ using CarpinteriaApp.Entidades;
 
 namespace CarpinteriaApp.Datos
 {
-    public class DBHelper
+    internal class DBHelper
     {
-        private static DBHelper instancia = null;
         private SqlConnection conexion;
-        private DBHelper()
+        public DBHelper()
         {
-            conexion = new SqlConnection(Properties.Resources.cnnString);
+            conexion = new SqlConnection(@"Data Source=172.16.10.196;Initial Catalog=Carpinteria_2023;User ID=alumno1w1;Password=alumno1w1");
         }
-        
-        //método estático porque es propio de la clase DBHelper
-        public static DBHelper GetInstancia()
-        {
-            if (instancia == null)
-                instancia = new DBHelper();
-            return instancia;
-        }
-
-
+                 
         public int ProximoPresupuesto()
         {
             conexion.Open();
