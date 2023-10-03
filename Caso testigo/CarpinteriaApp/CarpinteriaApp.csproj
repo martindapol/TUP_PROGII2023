@@ -67,9 +67,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Datos\AbstractDaoFactory.cs" />
+    <Compile Include="Datos\DaoFactory.cs" />
     <Compile Include="Datos\DBHelper.cs" />
+    <Compile Include="Datos\IDaoPresupuesto.cs" />
     <Compile Include="Datos\IDaoProducto.cs" />
     <Compile Include="Datos\Parametro.cs" />
+    <Compile Include="Datos\PresupuestoDao.cs" />
     <Compile Include="Datos\ProductoDao.cs" />
     <Compile Include="Entidades\DetallePresupuesto.cs" />
     <Compile Include="Entidades\Presupuesto.cs" />
@@ -117,6 +121,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicios\DTOs\PresupuestoDTO.cs" />
+    <Compile Include="Servicios\GestorPresupuestos.cs" />
     <Compile Include="Servicios\GestorProductos.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
     <EmbeddedResource Include="Presentacion\FrmConsultarPresupuestos.resx">

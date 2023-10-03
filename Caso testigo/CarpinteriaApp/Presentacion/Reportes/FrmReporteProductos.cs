@@ -32,7 +32,7 @@ namespace CarpinteriaApp.Presentacion.Reportes
             lst.Add(new Parametro("@fecha_desde", dtpDesde.Value));
             lst.Add(new Parametro("@fecha_hasta", dtpHasta.Value));
             //obtener datos en un Datatable
-            DataTable dt = new DBHelper().Consultar("SP_REPORTE_PRODUCTOS", lst);
+            DataTable dt = null; //new DBHelper().Consultar("SP_REPORTE_PRODUCTOS", lst);
             //enlazar el visualizador de reporte con el diseño + el dataset (source)
 
             ReportParameter[] parameters = new ReportParameter[] {

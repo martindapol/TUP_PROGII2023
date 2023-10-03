@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarpinteriaApp.Datos
 {
-    internal class Parametro
+    public class Parametro
     {
         public string Nombre { get; set; }
         public object Valor { get; set; }

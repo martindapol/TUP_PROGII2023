@@ -1,0 +1,17 @@
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe.config
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\bin\Debug\ParcialApp.pdb
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+C:\Users\marti\source\repos\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Presentacion.Frm_Alta.resources
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.Properties.Resources.resources
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.exe
+D:\UTN\TUP PROG II\Examen FInal 19-12-2022\ParcialSln\ParcialApp\obj\Debug\ParcialApp.pdb

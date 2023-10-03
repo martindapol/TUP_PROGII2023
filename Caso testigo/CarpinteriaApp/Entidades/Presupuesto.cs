@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace CarpinteriaApp.Entidades
 {
-    internal class Presupuesto
+    public class Presupuesto
     {
         public int PresupuestoNro { get; set; }
         public DateTime Fecha { get; set; }

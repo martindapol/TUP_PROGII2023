@@ -26,6 +26,17 @@ C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\Carpint
 C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.pdb
 C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.Presentacion.FrmConsultarPresupuestos.resources
 C:\Users\alumno\Documents\ProgramacionII\CarpinteriaAppTransac\obj\Debug\CarpinteriaApp.Presentacion.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmConsultarPresupuestos.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmDetallesPresupuesto.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.FrmPrincipal.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.Reportes.FrmListadoProductos.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.Reportes.FrmReporteProductos.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
@@ -90,17 +101,6 @@ D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.AssemblyReference.cache
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.SuggestedBindingRedirects.cache
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmConsultarPresupuestos.resources
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmDetallesPresupuesto.resources
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.FrmNuevoPresupuesto.resources
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.FrmPrincipal.resources
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.Reportes.FrmReporteProductos.resources
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Properties.Resources.resources
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.GenerateResource.cache
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CoreCompileInputs.cache
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.csproj.CopyComplete
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.exe
 D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.pdb
-D:\UTN\TUP PROG II\2023\git\TUP_PROGII2023\Caso testigo\CarpinteriaApp\obj\Debug\CarpinteriaApp.Presentacion.Reportes.FrmListadoProductos.resources

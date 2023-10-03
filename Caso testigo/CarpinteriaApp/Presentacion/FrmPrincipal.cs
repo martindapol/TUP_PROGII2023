@@ -1,4 +1,5 @@
-﻿using CarpinteriaApp.Presentacion;
+﻿using CarpinteriaApp.Datos;
+using CarpinteriaApp.Presentacion;
 using CarpinteriaApp.Presentacion.Reportes;
 using System;
 using System.Collections.Generic;
@@ -27,7 +28,7 @@ namespace CarpinteriaApp
 
         private void consultarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FrmConsultarPresupuestos consulta=new FrmConsultarPresupuestos();
+            FrmConsultarPresupuestos consulta=new FrmConsultarPresupuestos(new DaoFactory());
             consulta.ShowDialog();
         }
 

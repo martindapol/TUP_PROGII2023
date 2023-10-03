@@ -75,6 +75,8 @@ namespace CarpinteriaApp.Datos
             conexion.Close();
             return tabla;
         }
+
+        //Pensar cómo se podría GENERALIZAR?
         public bool ConfirmarPresupuesto(Presupuesto oPresupuesto)
         {
             bool resultado = true;

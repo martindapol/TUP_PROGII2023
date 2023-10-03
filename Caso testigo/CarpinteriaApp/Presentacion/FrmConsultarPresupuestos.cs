@@ -1,4 +1,6 @@
 ﻿using CarpinteriaApp.Datos;
+using CarpinteriaApp.Servicios;
+using CarpinteriaApp.Servicios.DTOs;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -13,9 +15,11 @@ namespace CarpinteriaApp.Presentacion
 {
     public partial class FrmConsultarPresupuestos : Form
     {
-        public FrmConsultarPresupuestos()
+        private GestorPresupuestos gestor;
+        public FrmConsultarPresupuestos(AbstractDaoFactory factory)
         {
             InitializeComponent();
+            gestor = new GestorPresupuestos(factory);
         }
 
         private void FrmConsultarPresupuestos_Load(object sender, EventArgs e)
@@ -27,20 +31,21 @@ namespace CarpinteriaApp.Presentacion
         private void btnConsultar_Click(object sender, EventArgs e)
         {
             //validar campos de carga!!!
-            List<Parametro> lst = new List<Parametro>();
+            /*List<Parametro> lst = new List<Parametro>();
             lst.Add(new Parametro("@fecha_desde", dtpFecDesde.Value.ToString("yyyyMMdd")));
             lst.Add(new Parametro("@fecha_hasta", dtpFecHasta.Value.ToString("yyyyMMdd")));
             lst.Add(new Parametro("@cliente", txtCliente.Text));
 
             DataTable tabla = DBHelper.GetInstancia().Consultar("SP_CONSULTAR_PRESUPUESTOS", lst);
+            */
             dgvPresupuestos.Rows.Clear();
-            foreach (DataRow fila in tabla.Rows)
+            List<PresupuestoDTO> lst = gestor.ObtenerPresupuestosConFiltros(dtpFecDesde.Value, dtpFecHasta.Value, txtCliente.Text);
+            foreach (PresupuestoDTO dto in lst)
             {
-               
-                dgvPresupuestos.Rows.Add(new object[] { fila["presupuesto_nro"].ToString(),
-                                                        ((DateTime)fila["fecha"]).ToShortDateString(),
-                                                        fila["cliente"].ToString(),
-                                                        fila["total"].ToString(),});
+                dgvPresupuestos.Rows.Add(new object[] { dto.PresupuestoNro,
+                                                        dto.Fecha,
+                                                        dto.Cliente,
+                                                        dto.Total});
             }
         }
 
