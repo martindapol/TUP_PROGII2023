@@ -1,0 +1,14 @@
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.Properties.Resources.resources
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.GenerateResource.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.AssemblyInfo.cs
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.deps.json
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.dll
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\bin\Debug\net6.0\CarpinteriaBack.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.dll
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\refint\CarpinteriaBack.dll
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\CarpinteriaBack.pdb
+C:\Users\alumno\Documents\ProgramacionII\CarpinteriaBack1w2\CarpinteriaBack\obj\Debug\net6.0\ref\CarpinteriaBack.dll
