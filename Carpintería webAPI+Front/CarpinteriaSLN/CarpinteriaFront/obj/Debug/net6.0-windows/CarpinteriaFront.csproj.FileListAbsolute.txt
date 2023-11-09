@@ -1,0 +1,58 @@
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaApp.formularios.FrmAltaPresupuesto.resources
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaApp.formularios.Principal.resources
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfo.cs
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.exe
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.deps.json
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.runtimeconfig.json
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.pdb
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\DataAPI.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\DataAPI.pdb
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CopyComplete
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\refint\CarpinteriaFront.dll
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.pdb
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.genruntimeconfig.cache
+C:\Users\Martin\Desktop\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\ref\CarpinteriaFront.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.exe
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.deps.json
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.runtimeconfig.json
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\CarpinteriaFront.pdb
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\DataAPI.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\bin\Debug\net6.0-windows\DataAPI.pdb
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.AssemblyReference.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaApp.formularios.FrmAltaPresupuesto.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaApp.formularios.Principal.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.GenerateResource.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfoInputs.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.AssemblyInfo.cs
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CoreCompileInputs.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.csproj.CopyComplete
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\refint\CarpinteriaFront.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.pdb
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.genruntimeconfig.cache
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\ref\CarpinteriaFront.dll
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.FrmConsultarPresupuestos.resources
+D:\UTN\TUP PROG II\repo\ProgII-2022\Semana 11\CarpinteriaSLN\CarpinteriaFront\obj\Debug\net6.0-windows\CarpinteriaFront.FrmDetallesPresupuesto.resources
